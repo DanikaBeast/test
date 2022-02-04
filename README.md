@@ -1,2 +1,5 @@
-# test
-ez egy test repo
+# teszt
+Ez egy test repo
+-Profil létrehozása
+-Repository létrehozása és beállítása  
+-Fálj módosítása
